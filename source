@@ -1,0 +1,12 @@
+//Code for hello world programm
+
+#include <iospace>
+
+using namespace std;
+
+int main(){
+
+cout<< "Hello World" << endl;
+
+return 0;
+}
